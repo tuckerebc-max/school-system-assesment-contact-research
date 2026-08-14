@@ -1,0 +1,4 @@
+interface:
+  display_name: "School System Assessment Contact Research"
+  short_description: "Research verified school-system leadership contacts"
+  default_prompt: "Use $school-system-assessment-contact-research to build a lightweight roster and organize the next five 25-district batches (~125 school systems) into a resumable workstream, then deepen verified contact research."
